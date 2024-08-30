@@ -3,11 +3,13 @@
 <h2>Information Gathering</h2>
 
 - Collecting data through reconnaissance</b>
-- Verify existing accounts, craft credible phishes
+
+- Verify existing accounts, craft credible phishes</b>
 
 <h2>Credential Harvesting</h2>
 
 - Obtain login credentials from victims</b>
+
 - Fake login pages, deceptive URLs</b>
 
 <h2>Malware Delivery</h2>
